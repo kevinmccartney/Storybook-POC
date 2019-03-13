@@ -10,8 +10,19 @@
   "author": "Kevin McCartney <hello@kevinmccartney.is>",
   "license": "MIT",
   "devDependencies": {
+    "@angular-devkit/core": "^7.3.5",
+    "@angular/common": "^7.2.9",
+    "@angular/compiler": "^7.2.9",
+    "@angular/core": "^7.2.9",
+    "@angular/forms": "^7.2.9",
+    "@angular/platform-browser": "^7.2.9",
+    "@angular/platform-browser-dynamic": "^7.2.9",
     "@babel/core": "^7.3.4",
     "@storybook/angular": "^5.0.1",
-    "babel-loader": "^8.0.5"
-  }
+    "babel-loader": "^8.0.5",
+    "tslint": "^5.14.0",
+    "typescript": "^3.3.3333",
+    "zone.js": "^0.8.29"
+  },
+  "repository": "https://github.com/kevinmccartney/Storybook-POC.git"
 }
