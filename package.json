@@ -1,0 +1,17 @@
+{
+  "name": "storybook-poc",
+  "version": "0.0.1",
+  "description": "A POC for having guidelines & other documentation living alongside components",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "storybook": "start-storybook"
+  },
+  "author": "Kevin McCartney <hello@kevinmccartney.is>",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.3.4",
+    "@storybook/angular": "^5.0.1",
+    "babel-loader": "^8.0.5"
+  }
+}
