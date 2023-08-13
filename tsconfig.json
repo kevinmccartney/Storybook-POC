@@ -1,0 +1,12 @@
+{
+  "exclude": [
+    "src/**/*.spec.ts"
+  ],
+  "include": [
+    "src/**/*"
+  ],
+  "compilerOptions": {
+    "lib": ["es2017", "dom"],
+    "experimentalDecorators": true
+  }
+}
